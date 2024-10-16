@@ -1,0 +1,1 @@
+script.src = 'https://widget.finlogix.com/Widget.js';
